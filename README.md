@@ -14,7 +14,7 @@ For the months of June from 1700 samples it was determnined that the average mea
 ### Dec Temp
 For the months of December for 1517 samples it was determine that the average mean temperature was 71F.  It was found that the standard deviation was 3.7, althought slightly higher than the months of June standard deviation the variation around the average was not a great variation in the temperature. The minimum temperature was 64F and the max temerature 83F. It is important to note that 50% of the time the temperature was 71F and 75% of the times and greater it was 74F.(refer to description and histogram)
 
-![Dec Temp](https://github.com/wallaceportia/surfs_up/blob/main/Resources/june_temp_hist.PNG)
+![Dec Temp](https://github.com/wallaceportia/surfs_up/blob/main/Resources/dec_temps_hist.PNG)
 
 
 ## Other Considerations
