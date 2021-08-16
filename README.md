@@ -23,7 +23,7 @@ As Mr. Avy pointed out from past experiences it is important to add to the consi
 ### June Precipation
 For the months of June from 1574 samples it was determnined that the average mean rainfall was .136 inches.  It was found that the standard deviation was .33, which suggested that there was not a great variation in the inches of rain.  It is important to note that 50% of the time there was .02 inches of rain and 75% of the times and greater there was only .12 inches of rain fall. The maximun amount of rainfall was 4.43 inches.(refer to histogram)
 
-![June Prcp](https://github.com/wallaceportia/surfs_up/blob/main/Resources/june_temp_hist.PNG)
+![June Prcp](https://github.com/wallaceportia/surfs_up/blob/main/Resources/june_prcp_hist.PNG)
 
 ### Dec Precipation
 For the months of December from 1405 samples it was determnined that the average mean rainfall was .21 inches.  It was found that the standard deviation was .54, which suggested that there was not a great variation in the inches of rain, however it was more likely to vary than June months.  It is important to note that 50% of the time there was .03 inches of rain and 75% of the times and greater there was only .15 inches of rain fall. The maximum amount of rainfall was 6.42 inches (refer to description and histogram)
